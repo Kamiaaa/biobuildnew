@@ -35,7 +35,7 @@ export default function PrimeLocationsPage() {
       {/* Hero Section */}
       <section className="px-4 text-center bg-white dark:bg-gray-800">
         <h2 className='text-2xl md:text-3xl font-poppins font-bold text-center mt-10 py-10'>
-          Biobuild Prime Locations
+          Biobuild Prime Location
         </h2>
       </section>
 
